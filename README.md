@@ -8,3 +8,8 @@ Low Power VLSI Project
 * There are two types of  TSPC latches
 1. Precharged TSPC Latches (PN and PP type)
 2. Non-precharged TSPC latches (SP and SN type)
+
+![335595600-78f17cf4-5555-443c-ab3d-2ba3fe7b445d](https://github.com/Karthik-6362/TSPC-Latch/assets/137412032/7af11924-e17f-4bb3-91ae-2d99a3a90589)
+![335595600-78f17cf4-5555-443c-ab3d-2ba3fe7b445d](https://github.com/Karthik-6362/TSPC-Latch/assets/137412032/7af11924-e17f-4bb3-91ae-2d99a3a90589)
+
+
